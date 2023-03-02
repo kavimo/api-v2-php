@@ -1,0 +1,19 @@
+{
+    "name": "kavimo/api-v2-php",
+    "description": "Kavimo API V2 PHP SDK",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kavimo\\ApiV2Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kavimo Team",
+            "email": "info@kavimo.com" 
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
